@@ -1,5 +1,5 @@
 # Module2-Test<br/>
-<b>Both  the Coed are uploaded in this Repo</b><br/>
+<b>Both  the Code are uploaded in this Repo</b><br/>
 Question 1 with module1-code1<br/>
 Question 2 with module2-code2<br/>
 
@@ -12,4 +12,9 @@ Question 2 with module2-code2<br/>
   Step 2</br>
   ng serve -o
   </li>
+<p>
+  Then your code will run on http://localhost:4200/
+  </p>
+
+
   
