@@ -1,6 +1,5 @@
-# Angular 7 & Bootstrap 4 Demo
+# Code 2 Module 2
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
 
 ## Development server
 
